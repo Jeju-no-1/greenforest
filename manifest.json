@@ -1,0 +1,13 @@
+{
+  "name": "푸른숲리조트",
+  "short_name": "푸른숲",
+  "description": "제주 한림 프라이빗 숲속 리조트",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0e120f",
+  "theme_color": "#0e120f",
+  "icons": [
+    { "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
