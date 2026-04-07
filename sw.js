@@ -1,5 +1,5 @@
 /* 푸른숲리조트 서비스워커 — 오프라인 캐싱 */
-const CACHE = 'pureun-v1';
+const CACHE = 'pureun-v2';
 const ASSETS = [
   './',
   './index.html',
